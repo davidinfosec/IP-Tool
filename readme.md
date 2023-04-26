@@ -28,7 +28,7 @@ To use the `iptool.py` script, follow these steps:
 1. Clone the repository to your local machine.
 2. Install the dependency by running `pip install requests` in the project directory.
 3. Create a CSV file called `ip_addresses.csv` and populate it with the IP addresses you want to get information on.
-4. Run the script 'iptool.py` by running `python iptool.py` in the project directory.
+4. Run the script `iptool.py` by running `python iptool.py` in the project directory.
 5. When prompted, enter your ipinfo.io API key. If you don't have an API key, you can sign up for a free one on the [ipinfo.io](https://ipinfo.io/signup) website.
 6. The script will create a new CSV file called `ip_info.csv` and store the geolocation data for each IP address in this file.
 
