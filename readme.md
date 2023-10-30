@@ -2,6 +2,8 @@
 
 This tool allows you to geolocate IP addresses and store the results in a CSV file. It uses the [ipinfo.io](https://ipinfo.io) API to retrieve the geolocation data.
 
+Transparency: Most of this app was created with AI assistance, as I seek to find solutions to my problems in creative ways. After finding use of such a tool, it is only fair to share it with others who may benefit in the same way.
+
 ## Usage
 
 1. Create a CSV file called `ip_addresses.csv` and populate it with the IP addresses you want to get information on.
