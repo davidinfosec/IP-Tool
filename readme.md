@@ -35,3 +35,7 @@ To use the `iptool.py` script, follow these steps:
 6. The script will create a new CSV file called `ip_info.csv` and store the geolocation data for each IP address in this file.
 
 I am not responsible for actions which lead to legal troubles. This is for educational and informational, law abiding use only.
+
+## Support:
+
+Feel like this has been useful? Donate toward my latest projects. https://www.poof.io/tip/@davidinfosec
